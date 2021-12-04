@@ -1,4 +1,4 @@
 # eveco
 counter collection site
 
-https://kigyoken-is.github.io/eveco/
+https://mom-dev.github.io/eveco/
